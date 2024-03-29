@@ -1,0 +1,11 @@
+beautifulsoup4
+faiss-cpu
+ollama
+streamlit
+groq
+langchain
+langchain-groq
+python-dotenv
+PyPDF2
+langchain_google_genai
+google-generativeai
